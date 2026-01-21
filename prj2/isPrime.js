@@ -6,5 +6,4 @@ function isPrime(number) {
   }
   return true;
 }
-
 module.exports = { isPrime };
